@@ -1,0 +1,23 @@
+{
+  "name": "atom-coffee2-transpiler",
+  "version": "0.0.1",
+  "description": "A transpiler for Atom packages that processes code with coffeescript 2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artarf/atom-coffee2-transpiler.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "atom",
+    "coffeescript",
+    "coffeescript2",
+    "transpile",
+    "transpiler"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "coffeescript": "2.5.1"
+  }
+}
