@@ -1,6 +1,6 @@
 # atom-coffee2-transpiler
 
-This project implements an [Atom package transpiler]() that transpiles your package's files with coffeescript 2.
+This project implements an Atom package transpiler that transpiles your package's files with coffeescript 2.
 
 ## Usage
 
